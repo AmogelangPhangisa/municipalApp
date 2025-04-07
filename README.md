@@ -27,12 +27,8 @@ This application allows community members to report issues in their local area. 
 ## Application Screenshots
 Here you can find screenshots of the application to help users understand the interface and functionality:
 
-![Main Menu](assets/Screenshot%202025-04-07%20214758.png)
-*The main menu with three navigation options.*
-
-![Report Issue Form](assets/Screenshot%2025-04-07 214815.png)
-*The issue reporting form with all input fields.*
-
+![Main Menu](./assets/Screenshot%202025-04-07%20214758.png)
+![Main Menu](./assets/Screenshot%25202025-04-07%2520214758.png)
 
 ## Design Considerations
 The application implements several key design principles:
